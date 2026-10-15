@@ -1,0 +1,9 @@
+[general]
+name=Affectation trafic
+qgisMinimumVersion=3.28
+description=Affectation du trafic généré par un projet sur un réseau, étape par étape (prototype)
+version=0.1.0
+author=À renseigner
+email=
+about=Onglet 1 : périmètre d'étude, téléchargement du réseau OSM (Overpass), variantes de réseau stockées dans un GeoPackage, styles neutre et sens de circulation. Les autres onglets (trafic actuel, programmation, distribution, affectation) sont à venir.
+experimental=True
